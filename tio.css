@@ -17,6 +17,9 @@ img {
     border-color: limegreen;
     border-width: 4px;
 }
-table, th, td {
-    border:"1xp solid black"
+table, th, td{
+    border-width:2xp;
+    border: solid;
+    border-color:black;
+    border-collapse: collapse;
 }
