@@ -1,0 +1,22 @@
+body {  
+    background-image: url(imagens/fundo.png);
+    font-family: Arial;
+}
+h1 {
+    color: limegreen;
+    font-family: "Times New Roman", Arial;
+    font-size: 28px;
+}
+h2 { 
+    color: limegreen;
+    font-family: "Times New Roman", Arial;
+    font-size: 24px;
+}
+img {
+    border: solid;
+    border-color: limegreen;
+    border-width: 4px;
+}
+table, th, td {
+    border:"1xp solid black"
+}
