@@ -2,7 +2,8 @@ body {
     background-image: url(imagens/fundo.png);
     font-family: Arial;
     margin: 5%;
-    margin-color:white;
+    margin-left:15%;
+    margin-right:15%;
 }
 h1 {
     color: limegreen;
